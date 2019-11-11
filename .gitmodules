@@ -1,0 +1,6 @@
+[submodule "Card-Art"]
+	path = Card-Art
+	url = https://github.com/DieKatzchen/Card-Art.git
+[submodule "resources"]
+	path = resources
+	url = https://github.com/DieKatzchen/TSSSFTemplates.git
