@@ -1,0 +1,183 @@
+{
+    "deck": {
+        "name": "Multiplicity 0.0.1a",
+        "version": "1.0",
+        "module": "TSSSF_CardGen",
+        "symbol": "symbol-multiplicity.png",
+        "defaultArtist": "Pixel Prism",
+        "copyright": "TSSSF by Horrible People Games."
+    },
+    "cards": [
+        {
+            "type": "START",
+            "title": "Twilight, Princess of Shipping",
+            "picture": "Start - Princess Twilight.png",
+            "artist": "Pixel Prism",
+            "symbols": [
+                "Female",
+                "Alicorn"
+            ],
+            "keywords": [
+                "Princess",
+                "Twilight Sparkle"
+            ],
+            "body": "Place this card in the center of the table at the start of the game.\nThis card can be moved, but not discarded or otherwise removed from the grid. If there is any side of this card without a Ship card attached, you must ship a Pony there before you can play anywhere else. This power cannot be copied.",
+            "flavor": "",
+            "client": ""
+        },
+        {
+            "type": "START",
+            "title": "Book Nerd Twilight",
+            "picture": "Start - Book Nerd Twilight.png",
+            "artist": "Fou Dubulbe",
+            "symbols": [
+                "Female",
+                "Unicorn"
+            ],
+            "keywords": [
+                "Mane 6",
+                "Twilight Sparkle"
+            ],
+            "body": "Place this card in the center of the table at the start of the game.\nThis card cannot be moved or removed from the grid. All Goals are worth 1 extra point. This power can't be copied.",
+            "flavor": "",
+            "client": ""
+        },
+        {
+            "type": "START",
+            "title": "Time Traveler Twilight",
+            "picture": "Start - Time Traveler Twilight.png",
+            "artist": "Pixel Prism",
+            "symbols": [
+                "Female",
+                "Unicorn"
+            ],
+            "keywords": [
+                "Mane 6",
+                "Twilight Sparkle"
+            ],
+            "body": "Place this card in the center of the table at the start of the game.\nThis card cannot be moved or removed from the grid. Once per game, each player may designate a single pony to be from a different timeline. This power can't be copied.",
+            "flavor": "",
+            "client": ""
+        },
+        {
+            "type": "START",
+            "title": "Socially Awkward Twilight",
+            "picture": "Start - Socially Awkward Twilight.png",
+            "artist": "Pixel Prism",
+            "symbols": [
+                "Female",
+                "Unicorn"
+            ],
+            "keywords": [
+                "Mane 6",
+                "Twilight Sparkle"
+            ],
+            "body": "Place this card in the center of the table at the start of the game.\nThis card cannot be moved or removed from the grid. During the game, no one Pony card can be shipped with more than two Pony cards. Discard any Goals that contradict this. This power can't be copied.",
+            "flavor": "",
+            "client": ""
+        },
+        {
+            "type": "START",
+            "title": "Element of Magic Twilight",
+            "picture": "Start - Element of Magic Twilight.png",
+            "artist": "Pixel Prism",
+            "symbols": [
+                "Female",
+                "Alicorn"
+            ],
+            "keywords": [
+                "Mane 6",
+                "Princess",
+                "Twilight Sparkle"
+            ],
+            "body": "Place this card in the center of the table at the start of the game.\nThis card cannot be moved or removed from the grid. During the game, all cards with the Villain keyword are discarded at the end of the turn they're played. All Goals involving Villians are +1 point. This power can't be copied.",
+            "flavor": "",
+            "client": ""
+        },
+        {
+            "type": "START",
+            "title": "SCIENCE!! Twilight",
+            "picture": "Start - SCIENCE Twilight.png",
+            "artist": "Pixel Prism",
+            "symbols": [
+                "Female",
+                "Unicorn"
+            ],
+            "keywords": [
+                "Mane 6",
+                "Twilight Sparkle"
+            ],
+            "body": "Place this card in the center of the table at the start of the game.\nThis card cannot be moved or removed from the grid. Each Player starts with a hand of 9 instead of 7. This power can't be copied.",
+            "flavor": "",
+            "client": ""
+        },
+        {
+            "type": "START",
+            "title": "Post-Grad Panic Twilight",
+            "picture": "Start - Post-Grad Panic Twilight.png",
+            "artist": "Pixel Prism",
+            "symbols": [
+                "Female",
+                "Unicorn"
+            ],
+            "keywords": [
+                "Mane 6",
+                "Twilight Sparkle"
+            ],
+            "body": "Place this card in the center of the table at the start of the game.\nThis card can be moved and removed from the grid. If it is ever discarded, put this card back into the Multiplicity expansion pile and randomly draw a new Start from the same pile card to use. This power can't be copied.",
+            "flavor": "",
+            "client": ""
+        },
+        {
+            "type": "START",
+            "title": "Teacher's Pet Twilight",
+            "picture": "Start - Teacher's Pet Twilight.png",
+            "artist": "Pixel Prism",
+            "symbols": [
+                "Female",
+                "Unicorn"
+            ],
+            "keywords": [
+                "Mane 6",
+                "Twilight Sparkle"
+            ],
+            "body": "Place this card in the center of the table at the start of the game.\nThis card cannot be moved or removed from the grid. All Celestias must be shipped with a Twilight card. All Celestias count as having Replace powers instead of their usual power. This power can't be copied.",
+            "flavor": "",
+            "client": ""
+        },
+        {
+            "type": "START",
+            "title": "Stubbornly Self-Reliant Twilight",
+            "picture": "Start - Stubbornly Self-Reliant Twilight.png",
+            "artist": "Pixel Prism",
+            "symbols": [
+                "Female",
+                "Unicorn"
+            ],
+            "keywords": [
+                "Mane 6",
+                "Twilight Sparkle"
+            ],
+            "body": "Place this card in the center of the table at the start of the game.\nThis card cannot be moved or removed from the grid. Flip this card whenever a Goal is placed on the bottom of the Goal deck. As long as this side of the card is active, the game can only be won if three Twilights are shipped together. This power can't be copied.",
+            "flavor": "",
+            "client": ""
+        },
+        {
+            "type": "START",
+            "title": "Friendship is Magic Twilight",
+            "picture": "Start - FRIENDSHIP Twilight.png",
+            "artist": "Pixel Prism",
+            "symbols": [
+                "Female",
+                "Unicorn"
+            ],
+            "keywords": [
+                "Mane 6",
+                "Twilight Sparkle"
+            ],
+            "body": "Place this card in the center of the table at the start of the game.\nThis card cannot be moved or removed from the grid. Flip this card whenever a Goal is won. As long as this side of the card is active, all new ships played count as 2 ships for the purpose of Goals. This power can't be copied.",
+            "flavor": "",
+            "client": ""
+        }
+    ]
+}
